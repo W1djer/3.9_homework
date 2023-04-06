@@ -1,0 +1,15 @@
+E:\Geekbrains\3.9\64\bin\Debug\net7.0\64.exe
+E:\Geekbrains\3.9\64\bin\Debug\net7.0\64.deps.json
+E:\Geekbrains\3.9\64\bin\Debug\net7.0\64.runtimeconfig.json
+E:\Geekbrains\3.9\64\bin\Debug\net7.0\64.dll
+E:\Geekbrains\3.9\64\bin\Debug\net7.0\64.pdb
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.csproj.AssemblyReference.cache
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.AssemblyInfoInputs.cache
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.AssemblyInfo.cs
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.csproj.CoreCompileInputs.cache
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.dll
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\refint\64.dll
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.pdb
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\64.genruntimeconfig.cache
+E:\Geekbrains\3.9\64\obj\Debug\net7.0\ref\64.dll
